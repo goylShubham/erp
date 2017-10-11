@@ -1,0 +1,13 @@
+::-webkit-scrollbar{
+	width: 10px;
+	background: lightgrey;
+	box-shadow: inset 0px 0px 2px black;
+}
+
+::-webkit-scrollbar-thumb{
+	background: grey;
+}
+
+.navigation nav{
+	width: 25%;
+}

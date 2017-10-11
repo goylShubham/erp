@@ -1,0 +1,77 @@
+/*Anchor Links*/
+a{
+	color: blue;
+	text-decoration: none;
+	text-decoration-line: none;
+}
+
+/*Term and Conditions span*/
+.tnc-btn{
+	cursor: pointer;
+	position: relative;
+}
+
+/*Info span*/
+.info-span{
+	position: relative;
+	color: #ff3b3f;
+}
+
+/*Input field*/
+.input-field{
+	position: relative;
+	float: left;
+	padding-left: 2%;
+	width: 98%;
+	height: 25px;
+	text-align: left;
+	border: 1px solid #ff3b3f;
+	border-radius: 4px;
+	outline: none;
+}
+
+/*Button*/
+.btn{
+	cursor: pointer;
+	position: relative;
+	width: 60%;
+	height: 35px;
+	font-size: 1.2em;
+	color: white;
+	background-color: green;
+	box-shadow: 0px 0px 10px grey;
+	border-radius: 4px;
+	border: none;
+	outline: none;
+}
+
+.not-active:hover{
+	box-shadow: none;
+}
+
+.btn:hover{
+	box-shadow: 1px 1px 5px grey;
+}
+
+/*Label*/
+label{
+	cursor: pointer;
+}
+
+/*Colors*/
+.bg-red{
+	background-color: #ff3b3f;
+}
+
+.red{
+	color: #ff3b3f;
+}
+
+.bg-blue{
+	background-color: blue;
+}
+
+.green{
+	color: green;
+}
+
